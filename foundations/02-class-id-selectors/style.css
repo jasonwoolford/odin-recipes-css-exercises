@@ -1,0 +1,21 @@
+.oddElem {
+    background-color: rgb(252, 170, 183);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#div2 {
+    color: rgb(10, 10, 248);
+    font-size: 36px;
+}
+
+
+#number4 {
+    background-color: rgb(134, 235, 134);
+    font-size: 24px;
+    font-weight:bold;
+}
